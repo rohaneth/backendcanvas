@@ -10,6 +10,7 @@ import com.example.canvac1.config.JwtProperties;
 public class Canvac1Application {
 
 	public static void main(String[] args) {
+		System.out.println("Starting Canvac1Application...");
 		SpringApplication.run(Canvac1Application.class, args);
 	}
 
