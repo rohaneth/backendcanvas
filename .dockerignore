@@ -1,0 +1,22 @@
+# Maven
+target/
+!target/*.jar
+
+# IDE
+.idea/
+*.iml
+
+# Git
+.git/
+.gitignore
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Docker
+Dockerfile
+.dockerignore
